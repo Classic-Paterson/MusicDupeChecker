@@ -1,0 +1,17 @@
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\RockMusicChecker.exe.config
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\RockMusicChecker.exe
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\RockMusicChecker.pdb
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\System.Net.Http.Formatting.dll
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\System.Net.Http.Formatting.xml
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.csprojResolveAssemblyReference.cache
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.exe
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.pdb
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\RockMusicChecker.exe.manifest
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\RockMusicChecker.application
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.exe.manifest
+C:\Customers\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.application
+C:\Dev\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\bin\Debug\RockMusicChecker.exe.config
+C:\Dev\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.exe
+C:\Dev\PatersonProjects\RockMusicChecker\RockMusicChecker\RockMusicChecker\obj\Debug\RockMusicChecker.pdb
